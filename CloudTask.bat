@@ -1,2 +1,1 @@
-@ECHO OFF
-dir
+ls
